@@ -37,15 +37,6 @@ docker --version
 ```bash
 git clone https://github.com/doanlinh25/galaxy-based-ibd-diagnosis
 ```
-
-Di chuyển vào thư mục project:
-
-```bash
-cd galaxy-based-ibd-diagnosis_00
-```
-
----
-
 # 3. Run Docker Environment
 
 Mở:
