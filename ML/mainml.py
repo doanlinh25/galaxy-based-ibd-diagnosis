@@ -21,7 +21,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-def load_data(s3_client=None, bucket_name=None, key="train/cleaned_data/wf0/merged.csv", path_file=None):
+def load_data(s3_client=None, bucket_name="ppnckh", key="train/cleaned_data/wf0/merged.csv", path_file=None):
     """
     Load dataset:
     - Nếu s3_client != None, lấy từ Cloudflare R2
