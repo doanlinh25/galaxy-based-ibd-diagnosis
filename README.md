@@ -35,7 +35,7 @@ docker --version
 # 2. Clone Project
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/doanlinh25/galaxy-based-ibd-diagnosis
 ```
 
 Di chuyển vào thư mục project:
